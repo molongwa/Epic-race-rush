@@ -1,0 +1,6 @@
+{
+  "name": "Apex City Rush",
+  "description": "Offline-capable urban car racing game featuring realistic drivers, customizable supercars, multiple city race modes, and Google AdMob monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

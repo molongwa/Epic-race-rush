@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Apex City Rush</string>
+
+    <!--
+      GOOGLE ADMOB CONFIGURATION (PLAY STORE PUBLISHING)
+      Currently configured with Google's official Test IDs so you never trigger invalid traffic.
+      Before publishing to Google Play Store, replace these 4 IDs with your real IDs
+      from https://admob.google.com/
+    -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3375101306</string>
+    <string name="admob_banner_unit_id">ca-app-pub-3940256099942544/9214589741</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_rewarded_unit_id">ca-app-pub-3940256099942544/5224354917</string>
+
+    <!-- UI & Game Strings -->
+    <string name="nav_pit_hub">Pit Hub</string>
+    <string name="nav_garage">Garage</string>
+    <string name="nav_records">Records</string>
+    <string name="cta_race_now">RACE NOW</string>
+    <string name="offline_ready_badge">OFFLINE READY</string>
+    <string name="ad_bonus_2x">2X CREDITS (WATCH AD)</string>
+    <string name="ad_free_credits">FREE +500 CR (AD)</string>
+    <string name="ad_offline_notice">Offline Mode — Connect to earn Ad Bonus</string>
+    <string name="label_settings">Settings</string>
+    <string name="label_pause">Race Paused</string>
+    <string name="label_resume">Resume Race</string>
+    <string name="label_restart">Restart</string>
+    <string name="label_quit_pit">Exit to Pit</string>
+</resources>
